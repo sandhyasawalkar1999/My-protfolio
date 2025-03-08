@@ -1,4 +1,9 @@
-# This is the repository for my personal portfolio website, showcasing my projects and providing information about me.
+![image](https://github.com/user-attachments/assets/3c465957-38b3-4cdd-abdb-47c876f9955e)
+
+
+
+This is the repository for my personal portfolio website, showcasing my projects and providing information about me.
+
 
 Table of Contents
 Overview
@@ -10,7 +15,8 @@ Technologies Used
 Contributing
 Contact
 Overview
-## Welcome to my portfolio website! This project includes both the front end (HTML, CSS, JavaScript) and additional features like a custom cursor animation, page-turning animation, and an email contact form. The website is designed to highlight my projects and provide an interactive and visually appealing experience.
+
+Welcome to my portfolio website! This project includes both the front end (HTML, CSS, JavaScript) and additional features like a custom cursor animation, page-turning animation, and an email contact form. The website is designed to highlight my projects and provide an interactive and visually appealing experience.
 
 ## Demo
 For a live demo, visit My Portfolio
