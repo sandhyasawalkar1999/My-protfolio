@@ -33,7 +33,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/sandhyasawalkar1999/My-protfolio.git
-cd your-portfolio
+cd your-portfolio 
 Open index.html in your web browser.
 
 ## Usage
@@ -61,5 +61,7 @@ Contributions are always welcome. Ensure your pull request adheres to the projec
 
 ## Contact
 Sandhya Sawalkar
+
 sandhyasawalakr1999@gmail.com
+
 Portfolio: Project Link [https://my-protfolio-git-main-sandhyasawalkar1999s-projects.vercel.app/]
