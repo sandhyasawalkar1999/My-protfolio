@@ -1,0 +1,90 @@
+/* Common CSS */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  --bg-color: #081b29;
+  --main-color: #00abf0;
+  --text-color: #333;
+  --second-text-color: #555;
+  --white-color: #fff;
+  --cover-color: linear-gradient(45deg, #00abf0, #006e9a);
+  --pages-color: linear-gradient(45deg, #fff, #ddd);
+  --border: 0.125rem solid #00abf0;
+  --box-shadow: 0 0 0.6rem rgba(0, 0, 0, 0.2);
+}
+/* -------------cursor CSS ------------------- */
+
+/* .mscursor-cursor {
+  pointer-events: none;
+  position: fixed;
+  display: block;
+  border-radius: 0;
+  top: 0;
+  left: 0;
+  z-index: 9999999999999999;
+}
+
+.mscursor-difference {
+  mix-blend-mode: difference;
+}
+
+.mscursor-circle {
+  transform-origin: center;
+  position: absolute;
+  display: block;
+  width: 26px;
+  height: 26px;
+  border-radius: 20px;
+}
+
+.mscursor-border-transform {
+  animation: border-transform 3s linear infinite;
+}
+
+@keyframes border-transform {
+  0%,
+  100% {
+    border-radius: 63% 37% 54% 46% / 55% 48% 52% 45%;
+  }
+  14% {
+    border-radius: 40% 60% 54% 46% / 49% 60% 40% 51%;
+  }
+  28% {
+    border-radius: 54% 46% 38% 62% / 49% 70% 30% 51%;
+  }
+  42% {
+    border-radius: 61% 39% 55% 45% / 61% 38% 62% 39%;
+  }
+  56% {
+    border-radius: 61% 39% 67% 33% / 70% 50% 50% 30%;
+  }
+  70% {
+    border-radius: 50% 50% 34% 66% / 56% 68% 32% 44%;
+  }
+  84% {
+    border-radius: 46% 54% 50% 50% / 35% 61% 39% 65%;
+  }
+}
+
+.mscursor-scale {
+  transition: 0.5s ease;
+  transform: scale(0);
+}
+
+.mscursor-scale-outline {
+  transform: scale(0);
+  background-color: transparent !important;
+}
+
+.mscursor-nocursor {
+  cursor: auto !important;
+} */
