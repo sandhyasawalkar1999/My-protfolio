@@ -33,7 +33,9 @@ Installation
 Clone the repository:
 
 git clone https://github.com/sandhyasawalkar1999/My-protfolio.git
+
 cd your-portfolio 
+
 Open index.html in your web browser.
 
 ## Usage
